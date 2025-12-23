@@ -1,4 +1,3 @@
-# Sample YAML configuration
 application:
   name: "MyApp"
   version: "1.0.0"
