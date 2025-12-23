@@ -1,43 +1,7 @@
-
 products:
   - id: 101
     name: "Wireless Mouse"
     category: "Electronics"
     price: 499.99
     stock: 120
-    in_stock: true
-
-  - id: 102
-    name: "Bluetooth Headphones"
-    category: "Electronics"
-    price: 1499.00
-    stock: 75
-    in_stock: true
-
-  - id: 103
-    name: "Coffee Mug"
-    category: "Home & Kitchen"
-    price: 199.50
-    stock: 300
-    in_stock: true
-
-  - id: 104
-    name: "Notebook"
-    category: "Stationery"
-    price: 59.00
-    stock: 500
-    in_stock: true
-
-  - id: 105
-    name: "Gaming Keyboard"
-    category: "Electronics"
-    price: 2499.00
-    stock: 40
-    in_stock: true
-
-  - id: 106
-    name: "Water Bottle"
-    category: "Sports"
-    price: 299.00
-    stock: 150
     in_stock: true
