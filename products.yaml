@@ -1,0 +1,35 @@
+# Sample YAML configuration
+application:
+  name: "MyApp"
+  version: "1.0.0"
+  environment: "production"
+
+database:
+  host: "localhost"
+  port: 5432
+  username: "admin"
+  password: "securepassword"
+  name: "myapp_db"
+
+features:
+  enable_logging: true
+  enable_cache: false
+  supported_languages:
+    - "en"
+    - "fr"
+    - "es"
+
+products:
+  - id: 101
+    name: "Wireless Mouse"
+    category: "Electronics"
+    price: 499.99
+    stock: 120
+    in_stock: true
+
+  - id: 102
+    name: "Bluetooth Headphones"
+    category: "Electronics"
+    price: 1499.00
+    stock: 75
+    in_stock: true
