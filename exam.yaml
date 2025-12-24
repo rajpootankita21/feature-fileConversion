@@ -25,10 +25,3 @@ products:
     price: 499.99
     stock: 120
     in_stock: true
-
-  - id: 102
-    name: "Bluetooth Headphones"
-    category: "Electronics"
-    price: 1499.00
-    stock: 75
-    in_stock: true
