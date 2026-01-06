@@ -14,7 +14,7 @@
     <name>wxp-platform-service</name>
     <description>Sample Spring Boot service for agent testing</description>
 
-    <!-- 🔴 Intentionally older Spring Boot -->
+    <!-- 🔴 older Spring Boot -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -77,7 +77,7 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- Testing -->
+        <!-- Test -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -96,5 +96,6 @@
 
         </plugins>
     </build>
+
 
 </project>
