@@ -2,7 +2,7 @@ application:
   name: "MyApp"
   version: "1.0.0"
   environment: "production"
-
+  
 database:
   host: "localhost"
   port: 5432
@@ -16,7 +16,6 @@ features:
   supported_languages:
     - "en"
     - "fr"
-    - "es"
 
 products:
   - id: 101
@@ -25,3 +24,4 @@ products:
     price: 499.99
     stock: 120
     in_stock: true
+
