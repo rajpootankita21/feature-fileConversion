@@ -7,7 +7,7 @@ database:
   host: "localhost"
   port: 5432
   username: "admin"
-  password: "securepassword"
+  password: "password"
   name: "myapp_db"
 
 features:
@@ -24,4 +24,5 @@ products:
     price: 499.99
     stock: 120
     in_stock: true
+
 
